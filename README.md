@@ -4,7 +4,7 @@ I'm Venkatesh, a 21 years old web, mobile flutter developer from India.
 
 *About me*
 
-- 🔭 I’m currently working on **A&F venturez**
+- 🔭 I’m currently working on **GYM POS**
 
 - 🌱 I’m currently learning **React Native**
 
