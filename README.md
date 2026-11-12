@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh0617&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh0617" /> </p>
 
-- 🔭 I’m currently working on *Auspower*
+- 🔭 I’m currently working on *Seitix*
 
-- 🌱 I’m currently learning *SQL*
+- 🌱 I’m currently learning *Python*
 
-- 💬 Ask me about *Flutter, Dart*
+- 💬 Ask me about *Flutter, Dart, Python*
 
 - 📫 How to reach me *dev.venkatesh1902@gmail.com*
   
-- 🚀 My portfolio *https://venkatesh-portfolio-51219.web.app/*
+- 🚀 My portfolio *https://venkatesh0109.github.io/*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
